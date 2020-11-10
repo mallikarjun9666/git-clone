@@ -1,0 +1,10 @@
+Warning: Permanently added the RSA host key for IP address '13.234.210.38' to the list of known hosts.
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 323 bytes | 80.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:mallikarjun9666/git-clone.git
+   f69a393..2e349bb  master -> master
+
